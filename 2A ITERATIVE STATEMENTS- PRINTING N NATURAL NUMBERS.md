@@ -18,9 +18,6 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 
 ### 🧾 Program
 
-
-# Reg.NO 212223060293
-# Name E.S.UMA
 ```
 num=int(input())
 print("Natural Numbers are :")
